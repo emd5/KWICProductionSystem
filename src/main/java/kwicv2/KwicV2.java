@@ -3,7 +3,7 @@ package kwicv2;
 import java.io.IOException;
 import java.util.Collections;
 
-public class Kwicv2 {
+public class KwicV2 {
 
     public static void main(String[] args) throws IOException {
 
